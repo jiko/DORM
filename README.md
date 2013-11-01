@@ -5,7 +5,7 @@ Couldn't resist the acronym. Includes the [TechEmpower benchmark app](https://gi
 
     vagrant up
 
-[installs OpenResty with LuaJIT](http://openresty.org/#Installation) and [MySQL 5.5](http://dev.mysql.com/doc/refman/5.5/en/) on a [Vagrant box](http://www.vagrantup.com/) with a [Debian 7.2 base](http://www.debian.org/News/2013/20131012). I prefer Debian, but you might want to [pick a different](http://cloud-images.ubuntu.com/vagrant/) [base box](vagrantbox.es), or run the scripts without Vagrant. I have not tested the scripts outside of this Vagrant configuration.
+[installs OpenResty with LuaJIT](http://openresty.org/#Installation) and [MySQL 5.5](http://dev.mysql.com/doc/refman/5.5/en/) on a [Vagrant box](http://www.vagrantup.com/) with a [Debian 7.2 base](http://www.debian.org/News/2013/20131012). I prefer Debian, but you might want to [pick a different](http://cloud-images.ubuntu.com/vagrant/) [base box](vagrantbox.es), or run the scripts without Vagrant. This repository duplicates much of my [OpenResty-Vagrant repo](https://github.com/jiko/OpenResty-Vagrant). I have not tested the scripts outside of this Vagrant configuration. 
 
 If you want a pre-packaged box built from this repository, do:
 
