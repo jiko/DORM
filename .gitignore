@@ -2,3 +2,4 @@ ngx*
 Vagrantfile
 mysql.pass
 .vagrant/
+*.swp
