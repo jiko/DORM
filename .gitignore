@@ -1,0 +1,4 @@
+ngx*
+Vagrantfile
+mysql.pass
+.vagrant/
